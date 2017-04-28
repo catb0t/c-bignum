@@ -6,7 +6,7 @@
   "keywords":    [ "math", "floats" ],
   "license":     "GPL v3",
   "src": [
-    "bignum.c",
+    "bignum.h",
     "Makefile",
     "README.md"
   ],
