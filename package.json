@@ -1,0 +1,15 @@
+{
+  "name":        "lcbnl",
+  "version":     "0.1",
+  "repo":        "catb0t/c-bignum",
+  "description": "lightweight c bignum library for functionally infinite precision",
+  "keywords":    [ "math", "floats" ],
+  "license":     "GPL v3",
+  "src": [
+    "bignum.c",
+    "Makefile",
+    "README.md"
+  ],
+
+  "install": "make install"
+}
